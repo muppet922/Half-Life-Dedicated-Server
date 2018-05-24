@@ -4,7 +4,7 @@
 
 **Informații generale**
    <li>Server-ul este „chel”, default fără alte modificări asupra addons-ului.</li>
-   <li>Server-ul conține ultimele update-uri luate prin steamcmd și reînlocuit HLDS-ul cu REHLDS.</li>
+   <li>Server-ul conține ultimele update-uri luate prin steamcmd iar HLDS-ul a fost înlocuit cu REHLDS.</li>
 
 
 **Alte informații**
