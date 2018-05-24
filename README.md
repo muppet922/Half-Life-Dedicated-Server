@@ -6,7 +6,7 @@
    <li>Server-ul este „chel”, default fără alte modificări asupra addons-ului.</li>
    <li>Server-ul conține ultimele update-uri luate prin steamcmd iar HLDS-ul a fost înlocuit cu REHLDS.</li>
 
-
+hr
 **Alte informații**
    <li>ReHLDS - 3.4.0.641</li>
    <li>ReGameDLL - 5.7.0.301</li>
