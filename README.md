@@ -8,7 +8,7 @@
 
 
 **Alte informații**
-   <li>ReHLDS - 3.4.0.641</li>
+   <li>ReHLDS - 3.4.0.654</li>
    <li>ReGameDLL - 5.7.0.301</li>
    <li>Metamod -R - 1.3.0.121</li>
    <li>AMX Mod X - 1.8.3-dev+5154</li>
