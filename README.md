@@ -44,4 +44,4 @@ taskset -c 1 ./hlds_run -game cstrike +ip change.this.with.your.ip +port 27015 -
 
 TASKSET - C number of the core (change the number from taskset -c 1 in 2 if you want to bind your server on second core)
 
-For other informations read [https://github.com/muppet922/Half-Life-Dedicated-Server/wiki](wiki.)
+For other informations read https://github.com/muppet922/Half-Life-Dedicated-Server/wiki (wiki).
