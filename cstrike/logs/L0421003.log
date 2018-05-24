@@ -1,0 +1,12 @@
+L 04/21/2018 - 14:13:10: Log file started (file "logs/L0421003.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1455")
+L 04/21/2018 - 14:13:18: World triggered "Round_Start"
+L 04/21/2018 - 14:13:37: "zebra.<1><STEAM_0:1:2899353><>" connected, address "192.168.0.109:27005"
+L 04/21/2018 - 14:13:37: "zebra.<1><STEAM_0:1:2899353><>" STEAM USERID validated
+L 04/21/2018 - 14:13:39: "zebra.<1><STEAM_0:1:2899353><>" entered the game
+L 04/21/2018 - 14:13:41: "zebra.<1><STEAM_0:1:2899353><>" joined team "CT"
+L 04/21/2018 - 14:14:18: "zebra.<1><STEAM_0:1:2899353><CT>" say "timeleft"
+L 04/21/2018 - 14:17:25: "zebra.<-1><><CT>" disconnected
+L 04/21/2018 - 14:17:25: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/21/2018 - 14:17:25: World triggered "Round_End"
+L 04/21/2018 - 14:17:25: Server shutdown
+L 04/21/2018 - 14:17:25: Log file closed
