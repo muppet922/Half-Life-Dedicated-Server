@@ -31,7 +31,7 @@ Pentru alte informații citiți wiki-ul prezent pe github.
    <li>The server contains the latest updates taken by steamcmd and the HLDS has been replaced with REHLDS.</li>
   
 **Other information**
-   <li>ReHLDS - 3.4.0.641</li>
+   <li>ReHLDS - 3.4.0.654</li>
    <li>ReGameDLL - 5.7.0.301</li>
    <li>Metamod -R - 1.3.0.121</li>
    <li>AMX Mod X - 1.8.3-dev+5154</li>
