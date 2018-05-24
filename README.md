@@ -39,7 +39,7 @@ Pentru alte informații citiți wiki-ul prezent pe github.
 **Startup parameters of the server**
 
 ```
-taskset -c 1 ./hlds_run -game cstrike +ip ip-ul tău +port 27015 -pingboost 2 +sys_ticrate 1000 +maxplayers 32 +map de_dust2
+taskset -c 1 ./hlds_run -game cstrike +ip change.this.with.your.ip +port 27015 -pingboost 2 +sys_ticrate 1000 +maxplayers 32 +map de_dust2
 ```
 
 TASKSET - C number of the core (change the number from taskset -c 1 in 2 if you want to bind your server on second core)
