@@ -42,6 +42,6 @@ Pentru alte informații citiți wiki-ul prezent pe github.
 taskset -c 1 ./hlds_run -game cstrike +ip change.this.with.your.ip +port 27015 -pingboost 2 +sys_ticrate 1000 +maxplayers 32 +map de_dust2
 ```
 
-TASKSET - C number of the core (change the number from taskset -c 1 in 2 if you want to bind your server on second core)
+TASKSET - C number of the core (change the number from taskset -c 1 in 2 if you want to bind your server on third core)
 
 For other informations read https://github.com/muppet922/Half-Life-Dedicated-Server/wiki (wiki).
