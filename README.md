@@ -27,7 +27,7 @@ Pentru alte informații citiți wiki-ul prezent pe github.
 [EN] File content information:
 
 **General information**
-   <li>The server is „bold”, default without any modifications to the addons.</li>
+   <li>The server is „bold”, default without any modifications to the addons/serverfiles.</li>
    <li>The server contains the latest updates taken by steamcmd and the HLDS has been replaced with REHLDS.</li>
   
 **Other information**
