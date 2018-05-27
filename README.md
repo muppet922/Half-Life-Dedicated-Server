@@ -10,7 +10,7 @@
 **Alte informații**
    <li>ReHLDS - 3.4.0.654</li>
    <li>ReGameDLL - 5.7.0.301</li>
-   <li>Metamod -R - 1.3.0.121</li>
+   <li>Metamod -R - 1.3.0.126</li>
    <li>AMX Mod X - 1.8.3-dev+5154</li>
 
 
@@ -33,7 +33,7 @@ Pentru alte informații citiți wiki-ul prezent pe github.
 **Other information**
    <li>ReHLDS - 3.4.0.654</li>
    <li>ReGameDLL - 5.7.0.301</li>
-   <li>Metamod -R - 1.3.0.121</li>
+   <li>Metamod -R - 1.3.0.126</li>
    <li>AMX Mod X - 1.8.3-dev+5154</li>
    
 **Startup parameters of the server**
